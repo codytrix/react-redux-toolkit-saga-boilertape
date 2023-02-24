@@ -1,0 +1,73 @@
+{
+  "user": {
+    "name": "Tom Cook",
+    "email": "tom@example.com",
+    "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+  },
+  "careers": [
+    {
+      "id": 1,
+      "title": "Senior React Developer",
+      "salary": 50000,
+      "location": "London, UK",
+      "imageSrc": "/Senior-React-Developer.jpeg",
+      "imageAlt": "Senior React Developer.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus veniam repellendus dicta delectus dignissimos fuga sunt nihil beatae quibusdam dolorem, at hic perferendis voluptas ullam, quidem molestias expedita soluta."
+    },
+    {
+      "id": 2,
+      "title": "Plumber",
+      "salary": 40000,
+      "location": "Bowser's Castle",
+      "imageSrc": "/Plumber.jpg",
+      "imageAlt": "Plumber working.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus veniam repellendus dicta delectus dignissimos fuga sunt nihil beatae quibusdam dolorem, at hic perferendis voluptas ullam, quidem molestias expedita soluta."
+    },
+    {
+      "id": 3,
+      "title": "Gym Leader",
+      "salary": 75000,
+      "location": "Kanto Region",
+      "imageSrc": "/Gym-leader.jpg",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus veniam repellendus dicta delectus dignissimos fuga sunt nihil beatae quibusdam dolorem, at hic perferendis voluptas ullam, quidem molestias expedita soluta."
+    },
+    {
+      "id": 4,
+      "title": "Vue Developer",
+      "salary": 40000,
+      "location": "Liverpool, UK",
+      "imageSrc": "/Vue-developer.jpg",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus veniam repellendus dicta delectus dignissimos fuga sunt nihil beatae quibusdam dolorem, at hic perferendis voluptas ullam, quidem molestias expedita soluta."
+    },
+    {
+      "id": 5,
+      "title": "Copywriter",
+      "salary": 35000,
+      "location": "Manchester, UK",
+      "imageSrc": "/Copywriter.png",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus veniam repellendus dicta delectus dignissimos fuga sunt nihil beatae quibusdam dolorem, at hic perferendis voluptas ullam, quidem molestias expedita soluta."
+    },
+    {
+      "id": 6,
+      "title": "Website Manager",
+      "salary": 50000,
+      "location": "Berlin, Germany",
+      "imageSrc": "/website-manager.jpg",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus veniam repellendus dicta delectus dignissimos fuga sunt nihil beatae quibusdam dolorem, at hic perferendis voluptas ullam, quidem molestias expedita soluta."
+    },
+    {
+      "id": 7,
+      "title": "Food Tester",
+      "salary": 30000,
+      "location": "London, UK",
+      "imageSrc": "/Food-tester.jpg",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus veniam repellendus dicta delectus dignissimos fuga sunt nihil beatae quibusdam dolorem, at hic perferendis voluptas ullam, quidem molestias expedita soluta."
+    }
+  ],
+  "messages": []
+}
